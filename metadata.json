@@ -1,0 +1,6 @@
+{
+  "name": "SmoothScroll Fixer",
+  "description": "Convert Variable Frame Rate (VFR) screen recordings into true Constant Frame Rate (CFR) MP4 files at 60 FPS for stutter-free video editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
